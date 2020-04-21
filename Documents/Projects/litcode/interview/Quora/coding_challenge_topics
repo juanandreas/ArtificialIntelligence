@@ -1,0 +1,22 @@
+1) Find number of paths through a binary tree 
+that sum up to the given target.
+
+2) 3 sum with duplicates. 
+You need to get the value from stdin.  
+
+3) s = [abcdef,ghij,klmnop]
+(there can be many rows like this)
+w be [3,4,4]
+Result would be:
+abc|ghij|klmn|
+def| |op |
+first question was to print this. 
+Then a W was given, 
+create w array such that height of max row is minimized.
+
+4) New stock prices are coming every hour, 
+Design a data structure to store stock prices 
+and getMaxStock() to get Max stock at price 
+at that instance for last K hours. 
+K will be known since beginning. 
+Stock prices may not come every hour. 

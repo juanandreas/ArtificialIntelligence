@@ -1,0 +1,26 @@
+--First round was an online contest having 65mcqs--
+based on python,SQL,big data,Hadoop and NoSQL.
+
+
+
+--The second round was the technical round.--
+
+In this round there were 3 categories on which 
+they assess the applicants. 
+
+The first is programming knowledge,
+second is SQL and the third is projects/ML/Analytics. 
+
+The final round is HR, just the normal one.
+
+
+3 tables are there with many to many relationship (Order and Item) 
+Order table (OrderId, OrderDate) 
+Item Table (ItemId, Name) 
+Order Item table (OrderId, ItemId)	
+Find all customers who purchased items 
+- Kindle and Alexa both 
+(Exclude customers who purchased only 1 item)	
+Find the items in the first purchase for a customer 
+- Print customer id, item id	
+Delete duplicate rows from the Order table

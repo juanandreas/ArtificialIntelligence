@@ -1,0 +1,49 @@
+Implement Data Structures:
+
+Stack
+    - stack = []
+    - stack.append(x)
+    - stack.pop()
+Queue
+    - from collections import deque
+    - queue = deque()
+    - queue.append(x)
+    - queue.popleft()
+
+    THREADED Queue
+    - from queue import Queue
+    - Q = Queue()
+    - Q.put(x)
+    - Q.get()
+        - blocks if Q is empty
+        - stalls program forever until 
+          another thread puts in another 
+          value into queue
+
+Singly Linked List
+Doubly Linked List
+Binary Tree
+Binary Search Tree
+Heap
+Graph
+
+Behavioral:
+
+What were my goals, interest and what could I offer the company with my background.
+
+Data Engineer
+Basic Java Questions,
+Data Structure,
+conversations about general CS knowledge
+
+
+TEAM ORIENTED, Positive People, with can can do attitude
+Resourceful, growth and learning opportunity
+Happy and friendly work atmosphere
+
+Integral ad science is focused on making
+advertising better for both buyers and sellers.
+    - This includes giving insight on the effectiveness of advertising
+    - Detect frauds in advertising
+        - Are ads seen by humans?
+        - Firewall product first between 1st and 3rd party advertisers
